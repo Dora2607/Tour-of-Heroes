@@ -93,3 +93,7 @@ Il `InMemoryDataService` è un servizio che simula un database in memoria per lo
 ### MessageService
 
 Il `MessageService` è un servizio in Angular che fornisce un meccanismo per raccogliere e gestire i messaggi all'interno dell'applicazione. Mantiene un array di messaggi, con ogni messaggio rappresentato come una stringa. Il servizio fornisce due metodi principali: `add` e `clear`. Il metodo `add` accetta un messaggio come stringa e lo aggiunge all'array di messaggi. Il metodo `clear` cancella tutti i messaggi dall'array. Questo servizio può essere utilizzato per registrare le attività dell'applicazione o per fornire feedback all'utente.
+
+## Links
+
+[Tour of Heroes](https://tour-of-heroes-c8013.web.app): per provare l'applicazione.
